@@ -1,0 +1,3 @@
+chicken 100caloris
+meal 200caloris
+kocha 0caloris
